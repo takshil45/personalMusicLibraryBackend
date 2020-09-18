@@ -55,6 +55,7 @@ $ sails lift
 Open new command prompt
 ```sh
 $ cd personalMusicLibraryFrontend
+$ npm install -g @angular/cli@6.1.2
 $ npm install
 $ ng serve
 ```
